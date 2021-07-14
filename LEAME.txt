@@ -1,0 +1,4 @@
+Información necesaria para el LOGIN
+
+Email: entrenadorPokemon@gmail.com
+Contraseña: 1234
